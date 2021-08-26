@@ -4,7 +4,7 @@ An Overlay for PVP in 1.8.9 with accessibility and ease of use in mind
 
 ## CHANGELOG
 
-### ersion: 1.0
+### Version: 1.0
 
 note: unreleased version
 
