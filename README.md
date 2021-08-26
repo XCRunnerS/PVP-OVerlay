@@ -82,7 +82,7 @@ note: unreleased version
 + new 3d ladder model
 ```
 
-#### Verion 1.5.1
+#### Version 1.5.1
 
 ```e
 / cleaned up changelog and .md file organization
